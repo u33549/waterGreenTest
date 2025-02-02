@@ -34,3 +34,9 @@ Bu projeyi çalıştırmak için aşağıdaki kütüphanelerin yüklü olması g
 
 ```bash
 pip install opencv-python numpy
+```
+---
+
+## 🔗 **Geliştirmede Kullanılan GPT Sohbeti**
+Bu algoritmanın geliştirilmesinde kullanılan GPT sohbetine [buradan erişebilirsiniz](https://chatgpt.com/share/679f3c78-41d8-800f-ac18-b41e94617406).
+
